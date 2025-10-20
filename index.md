@@ -11,14 +11,15 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 
 
 # Headers
-#Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header six
+
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
  
-####Colombian Symbolism in _One Hundred Years of Solitude_
+#### Colombian Symbolism in _One Hundred Years of Solitude_
 Here's some words about the book _One Hundred Years..._.
 
 
@@ -27,21 +28,21 @@ Here's some words about the book _One Hundred Years..._.
     
 [You're **really, really** going to want to see this.](www.dailykitten.com)
   
-####The Latest News from [the BBC](www.bbc.com/news:)
+#### The Latest News from [the BBC](www.bbc.com/news:)
    
 Do you want to [see something fun][a fun place]?
 Well, do I have [the website for you][another fun place]!
-[a fun place]: www.zombo.com
-[another fun place]: www.stumbleupon.com
+    [a fun place]: www.zombo.com
+    [another fun place]: www.stumbleupon.com
 
 
-# images¨
-    ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+# images
+![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-    ![Black cat][Black]
-    ![Orange cat][Orange]
-        [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
-        [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
+![Black cat][Black]
+![Orange cat][Orange]
+    [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+    [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 
 # Blockquotes
@@ -58,18 +59,22 @@ Well, do I have [the website for you][another fun place]!
 
 # List
 
+# 1
 * Flour
 * Cheese
 * Tomatoes
 
+# 2
 1. Cut the cheese
 2. Slice the tomatoes
 3. Rub the tomatoes in flour
 
+# 3
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_)
 
+# 4
 * Calculus
  * A professor
  * Has no hair
@@ -79,7 +84,7 @@ Well, do I have [the website for you][another fun place]!
  * Has white hair
  * Is very famous
 
-
+# 5
  1. Cut the cheese
 
    Make sure that the cheese is cut into little triangles.
